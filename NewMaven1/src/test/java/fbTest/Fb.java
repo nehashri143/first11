@@ -50,7 +50,7 @@ public class Fb {
 	@Test()
 	public void homepage() throws InterruptedException
 	{
-		System.out.println("test executed");
+		System.out.println("test.................... executed");
 		
 		home.setFBloginNotification();
 		home.setFBloginHome();
